@@ -1,0 +1,10 @@
+# Python environment
+venv/
+__pycache__/
+
+# Output files
+*.xlsx
+*.csv
+
+# System files
+.DS_Store
